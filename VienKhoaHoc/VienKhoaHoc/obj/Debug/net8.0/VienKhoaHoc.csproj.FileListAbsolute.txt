@@ -1,0 +1,14 @@
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\bin\Debug\net8.0\VienKhoaHoc.exe
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\bin\Debug\net8.0\VienKhoaHoc.deps.json
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\bin\Debug\net8.0\VienKhoaHoc.runtimeconfig.json
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\bin\Debug\net8.0\VienKhoaHoc.dll
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\bin\Debug\net8.0\VienKhoaHoc.pdb
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.AssemblyInfoInputs.cache
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.AssemblyInfo.cs
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.dll
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\refint\VienKhoaHoc.dll
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.pdb
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\VienKhoaHoc.genruntimeconfig.cache
+C:\Users\truon\source\repos\VienKhoaHoc\VienKhoaHoc\obj\Debug\net8.0\ref\VienKhoaHoc.dll
